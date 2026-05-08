@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bedonar Chorabali
+
+This log tracks the cryptographic history and versioning for the song **Bedonar Chorabali** (bedonar-chorabali).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:08:32.588588 | `v1` | `6a9fa7a0b2fe7527317f51effbf1abb6bf31715689a991ffb34d171805a5dc63` | `d63ceed3a31ab569f31e9c94e5ca8a5c66aadf462f3f666e5bee34763290a6ec` | `2026-05-08_bedonar-chorabali-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
